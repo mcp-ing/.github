@@ -1,4 +1,4 @@
-# 🚀 MCP.ing
+# ![MCP.ing](https://avatars.githubusercontent.com/u/205565395?s=45&v=4) MCP.ing 🚀
 
 ### ✨ Activate all of your AI's abilities. ✨
 ### Just select the service you want to use, as easily as connecting a USB device.

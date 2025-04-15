@@ -11,7 +11,11 @@ We provide a comprehensive collection service for MCP servers, making it easier 
 ## Our Vision
 Simplifying access to Model Context Protocol infrastructure for developers and organizations by creating a robust ecosystem of discoverable servers.
 
-## Learn More
+## Community
+Join our community discussions to ask questions, share ideas, and stay updated:
+- 💬 [GitHub Discussions](https://github.com/orgs/mcp-ing/discussions)
+
+## Connect With Us
 - 🌐 [mcp.ing](https://mcp.ing)
 - 🐦 [Twitter (@get_mcp_ing)](https://x.com/get_mcp_ing)
 
